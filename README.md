@@ -10,7 +10,6 @@ GV100-84W16-M85JP-WXZ7E-ZP2R6
 YF5X2-8MW91-4888Y-DNWGC-W68TF
 AY1XK-0NG5P-0855Y-K6ZXG-YK0T4
 
-
 ======================================
 Serie VMware Workstation Player 16.x
 ======================================
