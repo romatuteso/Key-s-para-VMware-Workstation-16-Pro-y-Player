@@ -24,10 +24,7 @@ Aqui les dejo unas licencia para la activacion del VMware de las versiones indic
 
 
 
-Descargar 16pro
-https://www.vmware.com/products/workstation-pro/workstation-pro-evaluación.html
-
-Descargar 16 jugadores
-https://www.vmware.com/products/workstation-player/workstation-player-evaluación.html
+Descargar 17 pro
+https://www.vmware.com/es/products/workstation-pro/workstation-pro-evaluation.html
 
 Disfruten !!!
